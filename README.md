@@ -9,7 +9,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #FFEE99;
 }
 
 .topnav a {
@@ -118,7 +118,7 @@ a:link {
 }
 
 a:visited {
-    color: white;
+    color:	#00BBFF;
     text-shadow:2px 2px 5px green;
 }
 
