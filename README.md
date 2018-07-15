@@ -55,7 +55,6 @@ img {vertical-align: middle;}
   border-radius: 0 3px 3px 0;
 }
 
-/* Position next button to the right */
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
@@ -66,7 +65,6 @@ img {vertical-align: middle;}
   background-color: rgba(0,0,0,0.8);
 }
 
-/* Caption text */
 .text {
   color: #f2f2f2;
   font-size: 15px;
@@ -76,8 +74,6 @@ img {vertical-align: middle;}
   width: 100%;
   text-align: center;
 }
-
-/* Numbertext (1/3) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
@@ -85,8 +81,6 @@ img {vertical-align: middle;}
   position: absolute;
   top: 0;
 }
-
-/* The dots*/
 .dot {
   cursor: pointer;
   height: 15px;
@@ -101,8 +95,6 @@ img {vertical-align: middle;}
 .active, .dot:hover {
   background-color: #717171;
 }
-
-/* Fading animation */
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
@@ -189,10 +181,9 @@ function showSlides(n) {
 </script>
 
 <div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
+  <a class="active" href="#English">English</a>
+  <a href="#Japanese">Japanese</a>
+  <a href="#Korean">Korean</a>
 </div>
 
 <div style="padding-left:16px">
