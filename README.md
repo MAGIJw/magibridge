@@ -116,6 +116,17 @@ img {vertical-align: middle;}
 </style>
 </head>
 <body>
+<div class="topnav">
+  <a class="active" href="#English">English</a>
+  <a href="#Japanese">日本語</a>
+  <a href="#Korean">한국어</a>
+  <a href="#Taiwan">TaiwanLife</a>
+  <a href="#NCKU">NCKU</a>
+  <a href="#About">AboutUs</a>
+</div>
+
+<div style="padding-left:16px">
+</div>
 
 <div class="slideshow-container">
 
@@ -173,18 +184,5 @@ function showSlides(n) {
   dots[slideIndex-1].className += " active";
 }
 </script>
-
-<div class="topnav">
-  <a class="active" href="#English">English</a>
-  <a href="#Japanese">日本語</a>
-  <a href="#Korean">한국어</a>
-  <a href="#Taiwan">TaiwanLife</a>
-  <a href="#NCKU">NCKU</a>
-  <a href="#About">AboutUs</a>
-</div>
-
-<div style="padding-left:16px">
-</div>
-
 </body>
 </html>
