@@ -23,6 +23,7 @@
 
 .topnav a:hover {
   background-color: #ddd;
+  text-shadow: 2px 2px 5px lightblue
   color: black;
 }
 
@@ -117,7 +118,6 @@ img {vertical-align: middle;}
 <body>
 <div class="topnav">
   <a class="active" href="#English">English</a>
- <a Target="_self" href="URL">文字或圖片</a>
   <a href="#Japanese">日本語</a>
   <a href="#Korean">한국어</a>
 </div>
