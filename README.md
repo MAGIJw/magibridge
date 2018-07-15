@@ -36,7 +36,6 @@ body {font-family: Verdana, sans-serif; margin:0}
 img {vertical-align: middle;}
 
 .slideshow-container {
-  max-width: 900px;
   position: relative;
   margin: auto;
 }
