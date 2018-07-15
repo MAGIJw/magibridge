@@ -1,5 +1,4 @@
 # magibridge
-練習4
 <!DOCTYPE html>
 <html>
 <head>
@@ -136,7 +135,6 @@ img {vertical-align: middle;}
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-/*滑動腳本*/
 <script>
 var slideIndex = 1;
 showSlides(slideIndex);
