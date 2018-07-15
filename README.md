@@ -134,9 +134,9 @@ a:active {
 </head>
 <body>
 <div class="topnav">
-  <a class="active" href="#English" >English</a>
+  <a href="#English" >English</a>
   <a href="#Japanese">日本語</a>
-  <a href="#Korean" target="https://magijw.github.io/magibridge/#Korean">한국어</a>
+  <a href="#Korean" >한국어</a>
 </div>
 
 <div style="padding-left:16px">
