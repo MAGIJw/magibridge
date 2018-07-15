@@ -4,7 +4,7 @@
 <style>
  body {
   margin: 0;
-  font-family: Microsoft JhengHei;
+  font-family:SimHei,Microsoft YaHei;
 }
 
 .topnav {
@@ -14,7 +14,7 @@
 
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #20B2AA;
   text-align: center;
   padding: 12px 14px;
   text-decoration: none;
@@ -32,7 +32,7 @@
   color: white;
 }
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+body {font-family: SimHei,Microsoft YaHei; margin:0}
 .mySlides fade {display: none}
 img {vertical-align: middle;}
 
@@ -45,7 +45,7 @@ img {vertical-align: middle;}
   position: absolute;
   top: 50%;
   width: auto;
-  padding: 16px;
+  padding: 14px;
   margin-top: -22px;
   color: white;
   font-weight: bold;
