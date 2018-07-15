@@ -31,9 +31,9 @@
   background-color: #4CAF50;
   color: white;
 }
-{box-sizing: border-box}
+* {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
-.Slides {display: none}
+.mySlides fade {display: none}
 img {vertical-align: middle;}
 
 .slideshow-container {
@@ -41,7 +41,7 @@ img {vertical-align: middle;}
   position: relative;
   margin: auto;
 }
-.next, .prev {
+.prev, .next {
   cursor: pointer;
   position: absolute;
   top: 50%;
@@ -54,13 +54,11 @@ img {vertical-align: middle;}
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
 }
-
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;
 }
 
-/*hover, add a black background color with a see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
 }
@@ -95,6 +93,7 @@ img {vertical-align: middle;}
 .active, .dot:hover {
   background-color: #717171;
 }
+
 .fade {
   -webkit-animation-name: fade;
   -webkit-animation-duration: 1.5s;
@@ -112,7 +111,6 @@ img {vertical-align: middle;}
   to {opacity: 1}
 }
 
-/* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
@@ -122,19 +120,19 @@ img {vertical-align: middle;}
 
 <div class="slideshow-container">
 
-<div class="fade">
+<div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="123.png" style="width:40%">
   <div class="text">English</div>
 </div>
 
-<div class="fade">
+<div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
   <img src="456.jpeg" style="width:40%">
   <div class="text">Japanese</div>
 </div>
 
-<div class="fade">
+<div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
   <img src="789.jpg" style="width:30%">
   <div class="text">Korean</div>
@@ -182,8 +180,11 @@ function showSlides(n) {
 
 <div class="topnav">
   <a class="active" href="#English">English</a>
-  <a href="#Japanese">Japanese</a>
-  <a href="#Korean">Korean</a>
+  <a href="#Japanese">日本語</a>
+  <a href="#Korean">한국어</a>
+  <a href="#Taiwan">Taiwan</a>
+  <a href="#NCKU">NCKU</a>
+  <a href="#About">About</a>
 </div>
 
 <div style="padding-left:16px">
