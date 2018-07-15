@@ -63,7 +63,7 @@ img {vertical-align: middle;}
 }
 
 .text {
-  color: #f2f2f2;
+  color: black;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -121,19 +121,19 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="123.png" style="width:100%">
+  <img src="手繪1.png" style="width:100%">
   <div class="text">English</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="456.jpeg" style="width:80%">
+  <img src="手繪2.png" style="width:100%">
   <div class="text">Japanese</div>
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="789.jpg" style="width:80%">
+  <img src="手繪3.png" style="width:100%">
   <div class="text">Korean</div>
 </div>
 
@@ -181,9 +181,9 @@ function showSlides(n) {
   <a class="active" href="#English">English</a>
   <a href="#Japanese">日本語</a>
   <a href="#Korean">한국어</a>
-  <a href="#Taiwan">Taiwan</a>
+  <a href="#Taiwan">TaiwanLife</a>
   <a href="#NCKU">NCKU</a>
-  <a href="#About">About</a>
+  <a href="#About">AboutUs</a>
 </div>
 
 <div style="padding-left:16px">
