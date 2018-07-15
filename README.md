@@ -283,8 +283,8 @@ function topFunction() {
       <img src="67259.jpg" alt="JingWei Yang" style="width:100%">
       <div class="container">
         <h2>楊靖緯</h2>
-        <p class="title">Sponsor % Developer</p>
-        <p>希望藉由這個網站，可以讓台灣、日本、韓國串聯在一起 !</p>
+        <p class="title">Sponsor & Developer</p>
+        <p>無痛從零開始學習語言 </p>
         <p>heyquerida@gmail.com</p>
         <p><button class="button">Contact</button></p>
       </div>
