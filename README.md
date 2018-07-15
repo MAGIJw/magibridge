@@ -1,4 +1,3 @@
-# magibridge
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,14 +8,11 @@ body {font-family: Verdana, sans-serif; margin:0}
 .Slides {display: none}
 img {vertical-align: middle;}
 
-/* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
   position: relative;
   margin: auto;
 }
-
-/* Next & previous buttons */
 .next, .prev {
   cursor: pointer;
   position: absolute;
