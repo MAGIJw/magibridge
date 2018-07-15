@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="EngJapKor" content="width=device-width, initial-scale=1">
