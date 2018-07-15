@@ -108,19 +108,19 @@ img {vertical-align: middle;}
 
 <div class="fade">
   <div class="numbertext">1 / 3</div>
-  <img src="123.png" style="width:100%">
+  <img src="123.png" style="width:40%">
   <div class="text">English</div>
 </div>
 
 <div class="fade">
   <div class="numbertext">2 / 3</div>
-  <img src="456.jepg" style="width:100%">
+  <img src="456.jpeg" style="width:40%">
   <div class="text">Japanese</div>
 </div>
 
 <div class="fade">
   <div class="numbertext">3 / 3</div>
-  <img src="789.jpg" style="width:100%">
+  <img src="789.jpg" style="width:40%">
   <div class="text">Korean</div>
 </div>
 
