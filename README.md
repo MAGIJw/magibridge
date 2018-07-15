@@ -113,6 +113,21 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .prev, .next,.text {font-size: 11px}
 }
+a:link {
+    color: red;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+a:active {
+    color: blue;
+}
 </style>
 </head>
 <body>
