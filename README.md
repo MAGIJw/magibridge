@@ -114,7 +114,7 @@ img {vertical-align: middle;}
   .prev, .next,.text {font-size: 11px}
 }
 a:link {
-    color: white;
+    color: #0000FF;
 }
 
 a:visited {
