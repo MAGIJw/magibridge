@@ -132,17 +132,17 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="手繪1.png" style="width:100%">
+  <img src="手繪1.png" style="width:80%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
-  <img src="手繪2.png" style="width:100%">
+  <img src="手繪2.png" style="width:80%">
 </div>
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="手繪3.png" style="width:100%">
+  <img src="手繪3.png" style="width:80%">
 </div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
