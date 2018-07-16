@@ -210,8 +210,8 @@ html {
 <body>
 <div class="topnav">
   <a href="https://magijw.github.io/-English/" >English</a>
-  <a href="#Japanese">日本語</a>
-  <a href="#Korean" >한국어</a>
+  <a href="https://magijw.github.io/-Japanese/">日本語</a>
+  <a href="https://magijw.github.io/-Korean/" >한국어</a>
 </div>
 <div style="padding-left:16px">
 </div>
