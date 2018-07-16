@@ -283,7 +283,8 @@ function topFunction() {
       <div class="container">
         <h2>楊靖緯</h2>
         <p class="title">Sponsor & Developer</p>
-        <p>將文字連結文字，          讓生命感動生命</p>
+        <p>將文字連結文字，</p>
+        <p>讓生命感動生命</p>
         <p>heyquerida@gmail.com</p>
       </div>
     </div>
