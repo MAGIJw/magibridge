@@ -213,7 +213,6 @@ html {
   <a href="#Japanese">日本語</a>
   <a href="#Korean" >한국어</a>
 </div>
-
 <div style="padding-left:16px">
 </div>
 
