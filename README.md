@@ -209,7 +209,7 @@ html {
 </head>
 <body>
 <div class="topnav">
-  <a href="#English" >English</a>
+  <a href="https://magijw.github.io/-English/" >English</a>
   <a href="#Japanese">日本語</a>
   <a href="#Korean" >한국어</a>
 </div>
